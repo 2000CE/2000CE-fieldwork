@@ -1,9 +1,10 @@
 Swadesh List & Picture Book Elicitation — Automated Tool Proposal
+
 （This idea was inspired by a simple voice-matching game.
 It is designed for non-experts and fieldwork situations.）
 
 1. Purpose of This Application
-This proposal outlines the structure of an application that allows researchers to safely collect recordings of basic vocabulary (200–3000 words) simply by having a speaker look at illustrations and produce utterances.
+This proposal outlines the structure of an application that allows researchers to safely collect recordings of basic vocabulary (001–3000 words) simply by having a speaker look at illustrations and produce utterances.
 
 Extremely simple operation
 
@@ -22,13 +23,13 @@ Press START → recording session begins
 
 Illustration 001 is displayed
 
-A 0.6‑second black screen follows the illustration
-
-After the black screen, the app enters recording‑ready mode
-
 Speaker produces the utterance
 
 User selects Y / R / N
+
+A 0.6‑second black screen follows the illustration
+
+After the black screen, the app enters next recording‑ready mode
 
 App proceeds to the next item
 
