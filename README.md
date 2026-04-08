@@ -1,6 +1,6 @@
-# 2000CE-fieldwork
+　2000CE-fieldwork
 
-— Vocabulary-Selection Writing AI (Hors d’oeuvre Word System) —
+## — Vocabulary-Selection Writing AI (Hors d’oeuvre Word System) —
 
 (Hors d’oeuvre Word System: a curated vocabulary selection interface)
 
@@ -32,9 +32,7 @@ This proposal introduces a new approach to writing.
 
 This system does not “generate” text.  
 Its purpose is to support the user’s own thinking and expression.
-
 ---
-
 Extended Design Philosophy — Accessibility & Cultural Adaptation
 
 This system prioritizes a design that stays close to the user.
@@ -44,9 +42,7 @@ This system prioritizes a design that stays close to the user.
 • Low-load, quiet interface  
 
 The goal is to create an environment that supports writing naturally and unobtrusively.
-
 ---
-
 Experimental Concept — Silent Emergency Support (Concept Only)
 
 As an extension of the system’s philosophy,  
@@ -58,9 +54,7 @@ we consider a silent protocol for assisting users in emergency situations.
 
 ※ This feature is not part of the core system.  
 It is an independent conceptual proposal requiring ethical and legal review.
-
 ---
-
 The core idea is simple:
 
 to return writing to the user.
@@ -70,12 +64,15 @@ to return writing to the user.
 ---
 ---
 
+
+
+## Previous Proposal
 This repository presents a proposal for a robust language documentation tool designed for fieldwork resilience.
 
-### Key Documents
+## Key Documents
 - **For Linguists & Researchers:** Please see [for-linguists.md](./for-linguists.md) for technical rationale and recording protocols.
 
-### Overview
+## Overview
 This project aims to bridge the gap between linguistic necessity and technical implementation, ensuring high-quality audio collection with zero data loss.
 
 ## License
