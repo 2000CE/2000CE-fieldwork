@@ -1,3 +1,5 @@
+# 2000CE-fieldwork
+
 — Vocabulary-Selection Writing AI (Hors d’oeuvre Word System) —
 
 (Hors d’oeuvre Word System: a curated vocabulary selection interface)
@@ -65,12 +67,8 @@ to return writing to the user.
 
 「Long version available」[HWSystem_(English).pdf](./HWSystem_(English).pdf)
 
-
-
-
-
-
-# 2000CE-fieldwork
+---
+---
 
 This repository presents a proposal for a robust language documentation tool designed for fieldwork resilience.
 
