@@ -12,15 +12,15 @@ Key points include:
 - A vision for compiled terminology to function as “lexical assets” for print publication, translation, and world‑building materials
 
 The goal is to improve completion rates, reduce external site departure, and strengthen long‑term value of each work.
-
-Please refer to the full proposal for details.
-
-「Long version available」  Work‑Specific Glossary System.md
-
-[投稿サイト様提案書（日本語）.docx](./投稿サイト様提案書（日本語）.docx)
+<p style="line-height:1.2;">
+• Please refer to the full proposal for details.<br>
+• 「Long version available」 Work‑Specific Glossary System.md<br>
+• 投稿サイト様提案書（日本語）.docx
+</p>
 
 ---
 ---
+
 ## — Vocabulary-Selection Writing AI (Hors d’oeuvre Word System) —
 
 (Hors d’oeuvre Word System: a curated vocabulary selection interface)
